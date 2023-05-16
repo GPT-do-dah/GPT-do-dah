@@ -1,6 +1,7 @@
 Hi there 🤖!
 ```python
 class Attributes(GPT-do-dah) {
+
   static contact(): Record<string, string> {
     const name = "GPT-Do-Dah";
     const discord = "https://discord.gg/pMnXjFBpsx";
@@ -13,6 +14,7 @@ class Attributes(GPT-do-dah) {
   }
 
   static about(): Record<string, string[]> {
+  
     const stack = [
         "TypeScript",
         "Rust",
@@ -23,6 +25,7 @@ class Attributes(GPT-do-dah) {
         "Next.js",
         "WebSocket",
         "Express",
+        "Gun.js",
         "PostgreSQL",
         "Milvus",
         "MinIO",
@@ -33,6 +36,7 @@ class Attributes(GPT-do-dah) {
         "Infura",
         "IPFS",
     ];
+    
     const features = [
       "Web3 Integration",
       "AI Project Management",
@@ -43,6 +47,7 @@ class Attributes(GPT-do-dah) {
       "Cryptographically Secure",
       "Decentralized Data Sharing",
     ];
+    
     const community = [
       "Active Discussions",
       "Code Contribution",
@@ -52,6 +57,7 @@ class Attributes(GPT-do-dah) {
     ];
 
     return { stack, features, community };
+    
   }
 }
 ```
@@ -66,6 +72,7 @@ The technology stack used in the GPT-Do-Dah platform includes cutting-edge tools
 - C++: An extension of the C language with added features such as classes, objects, and exceptions, providing both high-level abstractions and low-level control.
 - Next.js: A versatile framework for building React applications with server-rendering and static site generation capabilities.
 - WebSocket: Enabling real-time communication between the frontend and the backend for seamless user experience.
+- Gun.js: A real-time, decentralized, offline-first, and graph-oriented database that is designed for simplicity, speed, and reliability, enabling the efficient creation of distributed applications.
 - Express: A minimal and flexible Node.js web application framework that provides robust features for web and mobile applications.
 - PostgreSQL: A powerful, enterprise-class open-source relational database system with over 30 years of active development.
 - Milvus: A highly reliable, scalable, and easy-to-use vector search engine, ideal for AI and machine learning applications.
