@@ -1,5 +1,5 @@
 Hi there 🤖!
-
+```python
 class Attributes(GPT-do-dah) {
   static contact(): Record<string, string> {
     const name = "GPT-Do-Dah";
@@ -54,6 +54,7 @@ class Attributes(GPT-do-dah) {
     return { stack, features, community };
   }
 }
+```
 
 The technology stack used in the GPT-Do-Dah platform includes cutting-edge tools and frameworks that provide a robust and scalable foundation:
 
