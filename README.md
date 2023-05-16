@@ -67,7 +67,7 @@ class Attributes(GPT-do-dah) {
 The technology stack used in the GPT-Do-Dah platform includes cutting-edge tools and frameworks that provide a robust and scalable foundation:
 
 - TypeScript: A strongly-typed superset of JavaScript, ensuring a more robust development experience.
-- - Rust: A systems programming language focused on safety, performance, and concurrency, providing low-level control and high-level abstractions.
+- Rust: A systems programming language focused on safety, performance, and concurrency, providing low-level control and high-level abstractions.
 - Go: A statically typed, compiled language designed for simplicity, efficiency, and concurrency, enabling rapid development of efficient and reliable software.
 - Python: A versatile, high-level programming language widely used for web development, data analysis, machine learning, and other applications.
 - C: A general-purpose programming language providing low-level access to memory and a simple set of keywords, enabling efficient system programming.
