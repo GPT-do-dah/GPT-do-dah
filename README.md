@@ -5,13 +5,14 @@ class Attributes(GPT-do-dah) {
   static contact(): Record<string, string> {
   
     const name = "GPT-Do-Dah";
+    const website = "https://gptdodah.com";
+    const email = "contact@gpt-do-dah.com";
     const discord = "https://discord.gg/pMnXjFBpsx";
     const telegram = "t.me/gptdodah";
     const twitter = "https://twitter.com/GPTdodah";
     const reddit = "https://www.reddit.com/r/GPT_do_dah/";
-    const email = "contact@gptdodah.com";
 
-    return { name, discord, telegram, twitter, reddit, email };
+    return { name, website, email, discord, telegram, twitter, reddit };
     
   }
 
