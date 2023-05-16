@@ -3,6 +3,7 @@ Hi there 🤖!
 class Attributes(GPT-do-dah) {
 
   static contact(): Record<string, string> {
+  
     const name = "GPT-Do-Dah";
     const discord = "https://discord.gg/pMnXjFBpsx";
     const telegram = "t.me/gptdodah";
@@ -11,6 +12,7 @@ class Attributes(GPT-do-dah) {
     const email = "contact@gptdodah.com";
 
     return { name, discord, telegram, twitter, reddit, email };
+    
   }
 
   static about(): Record<string, string[]> {
